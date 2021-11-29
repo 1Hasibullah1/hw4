@@ -1,0 +1,24 @@
+#title{
+    color: green;
+}
+h2{
+    color: rgb(85, 194, 85);
+}
+body p {
+    color: rgb(233, 135, 6);
+}
+.text {
+    color: rgb(134, 22, 209);
+}
+.text-two{
+     color: rgb(231, 228, 8);
+}
+.text-tree{
+    color: rgb(170, 20, 120);
+}
+.text-four{
+    color: rgb(23, 51, 206);
+}
+.text-five{
+    color:aqua;
+}
